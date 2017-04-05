@@ -1,6 +1,9 @@
 # Awesome deep learning tutorials
 Links to useful online tutorials etc. all about deep learning ( a work in progress )
 
+### Linear Algebra
+* https://medium.com/towards-data-science/linear-algebra-cheat-sheet-for-deep-learning-cd67aba4526c#.nfoveoe56
+
 ### Optimisation
 * Momentum - http://distill.pub/2017/momentum/
 
