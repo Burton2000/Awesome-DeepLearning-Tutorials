@@ -1,6 +1,9 @@
-# Awesome deep learning tutorials
+# Awesome deep learning and machine learning tutorials
 Links to useful online tutorials etc. all about deep learning ( a work in progress )
 
+### Introduction to Machine Learning
+* Andrew Ng https://www.coursera.org/learn/machine-learning
+* Elements of Statistical Learning (Ch.1-4/7) http://statweb.stanford.edu/%7Etibs/ElemStatLearn/printings/ESLII_print10.pdf
 ### Linear Algebra
 * https://medium.com/towards-data-science/linear-algebra-cheat-sheet-for-deep-learning-cd67aba4526c#.nfoveoe56
 
