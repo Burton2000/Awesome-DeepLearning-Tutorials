@@ -16,6 +16,9 @@ Links to useful online tutorials etc. all about deep learning ( a work in progre
 ### Natural language processing
 * CS224n https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
 
+### Batch Norm ###
+* Experiments on placement of batchnorm http://torch.ch/blog/2016/02/04/resnets.html
+
 ### Research Papers
 * https://github.com/terryum/awesome-deep-learning-papers/blob/master/README.md 
 * Pose estimation https://arxiv.org/abs/1312.4659 
