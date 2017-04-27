@@ -1,2 +1,5 @@
 # Installing NCCL and caffe #
 http://www.nvidia.com/object/caffe-installation.html
+
+# Anaconda environments running spyder # 
+http://stackoverflow.com/questions/30170468/how-to-run-spyder-in-virtual-environment
