@@ -1,5 +1,5 @@
 ## Installing NCCL and caffe ##
-http://www.nvidia.com/object/caffe-installation.html
+- http://www.nvidia.com/object/caffe-installation.html
 
 ## Anaconda environments and running spyder ## 
 - https://conda.io/docs/using/envs.html#change-environments-activate-deactivate
