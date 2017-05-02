@@ -2,8 +2,8 @@
 http://www.nvidia.com/object/caffe-installation.html
 
 ## Anaconda environments and running spyder ## 
-https://conda.io/docs/using/envs.html#change-environments-activate-deactivate
-http://stackoverflow.com/questions/30170468/how-to-run-spyder-in-virtual-environment
+- https://conda.io/docs/using/envs.html#change-environments-activate-deactivate
+- http://stackoverflow.com/questions/30170468/how-to-run-spyder-in-virtual-environment
 
 ## Install hdf5 on ubuntu 16.04 ##
 First:
