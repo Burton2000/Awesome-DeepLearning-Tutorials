@@ -21,6 +21,7 @@ Links to useful online tutorials etc. all about deep learning ( a work in progre
 
 ### Research Papers
 * https://github.com/terryum/awesome-deep-learning-papers/blob/master/README.md 
+* https://github.com/sbrugman/deep-learning-papers
 * Pose estimation https://arxiv.org/abs/1312.4659 
 * Object detection https://arxiv.org/abs/1311.2524
 * Object detection https://arxiv.org/abs/1312.2249
