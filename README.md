@@ -4,6 +4,10 @@ Links to useful online tutorials etc. all about deep learning ( a work in progre
 ### Introduction to Machine Learning
 * Andrew Ng https://www.coursera.org/learn/machine-learning
 * Elements of Statistical Learning (Ch.1-4/7) http://statweb.stanford.edu/%7Etibs/ElemStatLearn/printings/ESLII_print10.pdf
+
+### Tensorflow
+* Freezing/saving and serving a model https://blog.metaflow.fr/tensorflow-how-to-freeze-a-model-and-serve-it-with-a-python-api-d4f3596b3adc
+
 ### Linear Algebra
 * https://medium.com/towards-data-science/linear-algebra-cheat-sheet-for-deep-learning-cd67aba4526c#.nfoveoe56
 
