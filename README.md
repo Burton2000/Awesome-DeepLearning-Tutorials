@@ -7,6 +7,7 @@ Links to useful online tutorials etc. all about deep learning ( a work in progre
 
 ### Tensorflow
 * Freezing/saving and serving a model https://blog.metaflow.fr/tensorflow-how-to-freeze-a-model-and-serve-it-with-a-python-api-d4f3596b3adc
+* Various tutorials/ipynb https://github.com/aymericdamien/TensorFlow-Examples
 
 ### Linear Algebra
 * https://medium.com/towards-data-science/linear-algebra-cheat-sheet-for-deep-learning-cd67aba4526c#.nfoveoe56
@@ -47,3 +48,4 @@ Links to useful online tutorials etc. all about deep learning ( a work in progre
 * Depth estimation https://arxiv.org/abs/1411.4734 (Depth, surface normals & semnatic labels with common multi scale conv.)
 * Depth estimation https://arxiv.org/abs/1411.6387 (Deep conv neural fields for depth estimation from a single image)
 * Network understanding https://arxiv.org/abs/1701.04128 (Understanding effective receptive field in deep CNN)
+* Self driving cars https://arxiv.org/pdf/1704.07911.pdf (Explaining How a DNN can steer a car NVIDIA)
