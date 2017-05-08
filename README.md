@@ -9,6 +9,9 @@ Links to useful online tutorials etc. all about deep learning ( a work in progre
 * Freezing/saving and serving a model https://blog.metaflow.fr/tensorflow-how-to-freeze-a-model-and-serve-it-with-a-python-api-d4f3596b3adc
 * Various tutorials/ipynb https://github.com/aymericdamien/TensorFlow-Examples
 
+### PyTorch
+* Variety of pretrained models and training scripts https://github.com/aaron-xichen/pytorch-playground
+
 ### Linear Algebra
 * https://medium.com/towards-data-science/linear-algebra-cheat-sheet-for-deep-learning-cd67aba4526c#.nfoveoe56
 
