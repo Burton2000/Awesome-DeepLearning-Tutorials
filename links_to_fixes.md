@@ -14,3 +14,9 @@ Then add these to your QT .pro file:
 
 - `- INCLUDEPATH += /usr/include/hdf5/serial`
 - `- LIBS += -L/usr/lib/x86_64-linux-gnu/`
+
+
+## Python
+
+Matplotlib remove whitespace in a figure (Domagoj):
+- https://stackoverflow.com/questions/9295026/matplotlib-plots-removing-axis-legends-and-white-spaces
