@@ -20,3 +20,7 @@ Then add these to your QT .pro file:
 
 Matplotlib remove whitespace in a figure (Domagoj):
 - https://stackoverflow.com/questions/9295026/matplotlib-plots-removing-axis-legends-and-white-spaces
+
+## Ubuntu batch rename files
+
+- 'for f in *.png; do mv "$f" "${f#image}"; done' 
