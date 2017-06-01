@@ -23,4 +23,4 @@ Matplotlib remove whitespace in a figure (Domagoj):
 
 ## Ubuntu batch rename files
 
-- 'for f in *.png; do mv "$f" "${f#image}"; done' 
+- `for f in *.png; do mv "$f" "${f#image}"; done` 
