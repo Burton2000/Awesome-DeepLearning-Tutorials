@@ -8,6 +8,7 @@ Links to useful online tutorials etc. all about deep learning ( a work in progre
 ### Tensorflow
 * Freezing/saving and serving a model https://blog.metaflow.fr/tensorflow-how-to-freeze-a-model-and-serve-it-with-a-python-api-d4f3596b3adc
 * Various tutorials/ipynb https://github.com/aymericdamien/TensorFlow-Examples
+* TFRecord example http://warmspringwinds.github.io/tensorflow/tf-slim/2016/12/21/tfrecords-guide/
 
 ### PyTorch
 * Variety of pretrained models and training scripts https://github.com/aaron-xichen/pytorch-playground
