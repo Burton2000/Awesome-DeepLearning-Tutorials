@@ -5,6 +5,14 @@
 - https://conda.io/docs/using/envs.html#change-environments-activate-deactivate
 - http://stackoverflow.com/questions/30170468/how-to-run-spyder-in-virtual-environment
 
+## Install tensorflow on Windows ##
+
+- Install Anaconda
+- Open Anaconda prompt
+- `conda create --name nameofenv python=3.5.2 anaconda` (create python env of 3.5.2)
+- Open Anaconda prompt for your newly created environment
+- `pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/windows/gpu/tensorflow_gpu-1.1.0-cp35-cp35m-win_amd64.whl ` go to here to get latest version of this link https://www.tensorflow.org/install/install_windows
+
 ## Install hdf5 on ubuntu 16.04 ##
 First:
 - `sudo apt-get install libhdf5-*`  (installs libhdf5 libs)
