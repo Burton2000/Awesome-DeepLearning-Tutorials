@@ -18,19 +18,18 @@
 
 This will generate a config file, edit this config file:
 
-set
+set:
 
 
-c.NotebookApp.notebook_dir = ''
+- c.NotebookApp.notebook_dir = ''
 
-to change the folder notebook opens with and set 
+to change the folder notebook opens with and set:
 
-c.NotebookApp.token = ''
+- c.NotebookApp.token = ''
 
 to disable token requirement
 
-
-these were lines 195 and 243 for me
+these were lines 195 and 243 for me!
 
 ## Install hdf5 on ubuntu 16.04 ##
 First:
