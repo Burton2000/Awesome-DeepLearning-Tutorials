@@ -14,13 +14,22 @@
 - `pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/windows/gpu/tensorflow_gpu-1.1.0-cp35-cp35m-win_amd64.whl ` go to here to get latest version of this link https://www.tensorflow.org/install/install_windows
 
 ## Change home folder and remove token access in Jupyter Notebook ##
-`jupyter notebook --ip=* --generate-config`
-- This will generate a config file, edit this config file:
+`jupyter notebook --ip=* --generate-config` 
+
+This will generate a config file, edit this config file:
+
 set
+
+
 c.NotebookApp.notebook_dir = ''
-- to change the folder notebook opens with and set 
+
+to change the folder notebook opens with and set 
+
 c.NotebookApp.token = ''
-- to disable token requirement
+
+to disable token requirement
+
+
 these were lines 195 and 243 for me
 
 ## Install hdf5 on ubuntu 16.04 ##
