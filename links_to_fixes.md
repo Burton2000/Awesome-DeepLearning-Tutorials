@@ -50,3 +50,6 @@ Matplotlib remove whitespace in a figure (Domagoj):
 ## Ubuntu batch rename files
 
 - `for f in *.png; do mv "$f" "${f#image}"; done` (in this example rename all *.png removing 'image' from their name)
+
+## Tensorflow windows cupti dll missing for tracing
+-I have encountered this problem before. When you use CUDA 8.0,the file cupti64_80.dll lies in C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\extras\CUPTI\libx64. I just fixed the problem by copying the dll into C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin, and the file cupti.lib in the same location into C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\lib\x64. And it works!
