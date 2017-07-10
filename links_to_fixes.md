@@ -9,7 +9,7 @@
 
 - Install Anaconda
 - Open Anaconda prompt
-- `conda create --name nameofenv python=3.5.2 anaconda` (create python env of 3.5.2)
+- `conda create --name nameofenv python=3.5.2 anaconda` (create python env of 3.5.2 called nameofenv <- you can change this)
 - Open Anaconda prompt for your newly created environment
 - `pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/windows/gpu/tensorflow_gpu-1.2.1-cp35-cp35m-win_amd64.whl ` go to here to get latest version of this link https://www.tensorflow.org/install/install_windows
 
