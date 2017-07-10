@@ -11,7 +11,7 @@
 - Open Anaconda prompt
 - `conda create --name nameofenv python=3.5.2 anaconda` (create python env of 3.5.2)
 - Open Anaconda prompt for your newly created environment
-- `pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/windows/gpu/tensorflow_gpu-1.1.0-cp35-cp35m-win_amd64.whl ` go to here to get latest version of this link https://www.tensorflow.org/install/install_windows
+- `pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/windows/gpu/tensorflow_gpu-1.2.1-cp35-cp35m-win_amd64.whl ` go to here to get latest version of this link https://www.tensorflow.org/install/install_windows
 
 ## Change home folder and remove token access in Jupyter Notebook ##
 `jupyter notebook --ip=* --generate-config` 
