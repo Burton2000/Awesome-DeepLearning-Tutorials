@@ -6,12 +6,23 @@
 - http://stackoverflow.com/questions/30170468/how-to-run-spyder-in-virtual-environment
 
 ## Install tensorflow on Windows ##
+To run Tensorflow on Windows you need python 3.5.2, the best way to install Tensorflow is to create an anaconda environment running 3.5.2. To create this environment and install Tensorflow in it do the following:
 
 - Install Anaconda
 - Open Anaconda prompt
-- `conda create --name nameofenv python=3.5.2 anaconda` (create python env of 3.5.2 called nameofenv <- you can change this)
+- `conda create --name nameofenv python=3.5.2 anaconda` (create python env of 3.5.2 called nameofenv <- you can change this to something else)
 - Open Anaconda prompt for your newly created environment (will be in start menu)
 - `pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/windows/gpu/tensorflow_gpu-1.2.1-cp35-cp35m-win_amd64.whl ` go to here to get latest version of this link https://www.tensorflow.org/install/install_windows
+
+To use this created environment with Tensorflow within Pycharm we must change the Pycharm interpreter settings. This is done as follows:
+
+- Open your Pycharm project 
+- File -> Settings
+- Click on Project Interpreter under Project:
+- Click the Settings wheel then 'Add local'
+- Find the python.exe for your created environment (this locaton can be found by opening an Anaconda prompt of your environment where it will tell you where to look)
+- Select the python.exe of your created environment 
+- Done!
 
 ## Change home folder and remove token access in Jupyter Notebook ##
 `jupyter notebook --ip=* --generate-config` 
