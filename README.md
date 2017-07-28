@@ -54,6 +54,7 @@ Links to useful online tutorials etc. all about deep learning ( a work in progre
 * Depth estimation https://arxiv.org/abs/1411.6387 (Deep conv neural fields for depth estimation from a single image)
 * Network understanding https://arxiv.org/abs/1701.04128 (Understanding effective receptive field in deep CNN)
 * Self driving cars https://arxiv.org/pdf/1704.07911.pdf (Explaining How a DNN can steer a car NVIDIA)
+* Resnet paper https://arxiv.org/pdf/1512.03385.pdf
 
 ### Datasets
 * NLP https://github.com/niderhoff/nlp-datasets
