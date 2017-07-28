@@ -2,11 +2,10 @@
 - http://www.nvidia.com/object/caffe-installation.html
 
 ## Caffe calculation of pool/conv spatial sizes
--https://github.com/BVLC/caffe/issues/1318
-In caffe pooling and conv. operations are treated differently for output spatial size. 
+- In caffe pooling and conv. operations are treated differently for output spatial size. 
 - For pooing output size is ` top_size = ceil((bottom_size + 2*pad - kernel_size) / stride) + 1`
 - For conv. output size is ` top_size = floor((bottom_size + 2*pad - kernel_size) / stride) + 1`
-
+- https://github.com/BVLC/caffe/issues/1318
 
 ## Anaconda environments and running spyder ## 
 - https://conda.io/docs/using/envs.html#change-environments-activate-deactivate
