@@ -27,7 +27,7 @@ Links to useful online tutorials etc. all about deep learning ( a work in progre
 * CS224n https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
 
 ### Batch Norm 
-* Experiments on placement of batchnorm http://torch.ch/blog/2016/02/04/resnets.html
+* Experiments on placement of batchnorm in Resnets http://torch.ch/blog/2016/02/04/resnets.html
 
 ### Self driving cars
 * https://github.com/CYHSM/carnd
