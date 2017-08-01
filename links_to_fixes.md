@@ -2,9 +2,14 @@
 - http://www.nvidia.com/object/caffe-installation.html
 
 ## Adjust fan speed Nvidia gpu on Linux ##
+In a terminal enter:
+
 `nvidia-xconfig --enable-all-gpus`
 
 `nvidia-xconfig --cool-bits=4`
+
+Then restart your computer and nvidia x settings should have a gpu fan speed option.
+
 
 ## Caffe calculation of pool/conv spatial sizes ##
 In caffe pooling and conv. operations are treated differently for output spatial size. 
