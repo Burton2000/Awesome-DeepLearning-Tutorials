@@ -75,6 +75,14 @@ Then add these to your QT .pro file:
 Matplotlib remove whitespace in a figure (Domagoj):
 - https://stackoverflow.com/questions/9295026/matplotlib-plots-removing-axis-legends-and-white-spaces
 
+## error: Unable to find vcvarsall.bat ##
+
+Encounted this issue when trying to use Cython in Windows. This is caused by not have a c/c++ compiler installed. Quickest solution is to install this:
+
+http://landinghub.visualstudio.com/visual-cpp-build-tools
+
+You can also install visual studio 2015 and should fix the problem.
+
 ## Ubuntu batch rename files
 
 - `for f in *.png; do mv "$f" "${f#image}"; done` (in this example rename all *.png removing 'image' from their name)
