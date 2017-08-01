@@ -1,7 +1,11 @@
 ## Installing NCCL and caffe ##
 - http://www.nvidia.com/object/caffe-installation.html
 
-## Caffe calculation of pool/conv spatial sizes
+## Adjust fan speed Nvidia gpu on Linux ##
+-   `nvidia-xconfig --enable-all-gpus
+    nvidia-xconfig --cool-bits=4`
+
+## Caffe calculation of pool/conv spatial sizes ##
 In caffe pooling and conv. operations are treated differently for output spatial size. 
 - For pooing output size is ` top_size = ceil((bottom_size + 2*pad - kernel_size) / stride) + 1`
 - For conv. output size is ` top_size = floor((bottom_size + 2*pad - kernel_size) / stride) + 1`
