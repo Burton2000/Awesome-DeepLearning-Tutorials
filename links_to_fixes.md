@@ -3,6 +3,7 @@
 
 ## Adjust fan speed Nvidia gpu on Linux ##
 `nvidia-xconfig --enable-all-gpus`
+
 `nvidia-xconfig --cool-bits=4`
 
 ## Caffe calculation of pool/conv spatial sizes ##
