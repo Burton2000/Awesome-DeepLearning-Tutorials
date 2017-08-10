@@ -41,6 +41,10 @@ To use this created environment with Tensorflow within Pycharm we must change th
 - Select the python.exe of your created environment 
 - Done!
 
+## Install pytorch on Windows ##
+https://github.com/pytorch/pytorch/issues/494
+
+
 ## Change home folder and remove token access in Jupyter Notebook ##
 `jupyter notebook --ip=* --generate-config` 
 
