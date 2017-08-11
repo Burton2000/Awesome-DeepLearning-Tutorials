@@ -45,9 +45,9 @@ To use this created environment with Tensorflow within Pycharm we must change th
 You need an anaconda env of pytohn 3.6.1 and you will need cuda 8 installed.
 - `conda create --name nameofenv python=3.6.1 anaconda` (this creates a python 3.6.1 env. called nameofenv <- you can change this name to something else)
 - Open an anaconda prompt of your new environment and enter the following to installl pytorch depending on your os
-Windows 10, Cuda 8
+-Windows 10, Cuda 8
 `conda install -c peterjc123 pytorch=0.1.12`
-Windows 7/8, Cuda 8 
+-Windows 7/8, Cuda 8 
 `conda install -c peterjc123 pytorch_legacy=0.1.12`
 
 ref: https://github.com/pytorch/pytorch/issues/494
