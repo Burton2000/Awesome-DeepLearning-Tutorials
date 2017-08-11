@@ -60,5 +60,7 @@ Links to useful online tutorials etc. all about deep learning ( a work in progre
 * Resnet paper https://arxiv.org/pdf/1512.03385.pdf
 * Quantization https://arxiv.org/pdf/1502.02551.pdf
 * Quantization http://proceedings.mlr.press/v48/linb16.pdf
+* Quantization https://www.microsoft.com/en-us/research/wp-content/uploads/2017/04/FxpNet-submitted.pdf
+* Quantization https://arxiv.org/pdf/1703.03073.pdf
 ### Datasets
 * NLP https://github.com/niderhoff/nlp-datasets
