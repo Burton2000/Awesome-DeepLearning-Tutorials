@@ -32,6 +32,9 @@ Links to useful online tutorials etc. all about deep learning ( a work in progre
 ### Self driving cars
 * https://github.com/CYHSM/carnd
 
+### RNN chatbot
+* https://adeshpande3.github.io/How-I-Used-Deep-Learning-to-Train-a-Chatbot-to-Talk-Like-Me
+
 ### Research Papers
 * https://github.com/terryum/awesome-deep-learning-papers/blob/master/README.md 
 * https://github.com/sbrugman/deep-learning-papers
