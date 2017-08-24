@@ -15,9 +15,10 @@ Links to useful online tutorials etc. all about deep learning ( a work in progre
 * TFRecord example http://warmspringwinds.github.io/tensorflow/tf-slim/2016/12/21/tfrecords-guide/
 * Visualise TF graphs in ipynb https://blog.jakuba.net/2017/05/30/tensorflow-visualization.html
 * Profiling TF https://medium.com/towards-data-science/howto-profile-tensorflow-1a49fb18073d
+
 ### PyTorch
 * Variety of pretrained models and training scripts https://github.com/aaron-xichen/pytorch-playground
-
+* Intro to PyTorch for Kaggle competitions https://github.com/bfortuner/pytorch-kaggle-starter
 ### Linear Algebra
 * https://medium.com/towards-data-science/linear-algebra-cheat-sheet-for-deep-learning-cd67aba4526c#.nfoveoe56
 
