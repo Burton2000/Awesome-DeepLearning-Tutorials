@@ -19,6 +19,9 @@ Links to useful online tutorials etc. all about deep learning ( a work in progre
 ### PyTorch
 * Variety of pretrained models and training scripts https://github.com/aaron-xichen/pytorch-playground
 * Intro to PyTorch for Kaggle competitions https://github.com/bfortuner/pytorch-kaggle-starter
+* Cheat sheet https://github.com/Tgaaly/pytorch-cheatsheet/blob/master/README.md
+* Cheat sheet with examples https://github.com/bfortuner/pytorch-cheatsheet/blob/master/pytorch-cheatsheet.ipynb
+
 ### Linear Algebra
 * https://medium.com/towards-data-science/linear-algebra-cheat-sheet-for-deep-learning-cd67aba4526c#.nfoveoe56
 
