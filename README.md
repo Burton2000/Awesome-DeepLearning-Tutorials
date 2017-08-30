@@ -34,6 +34,9 @@ Links to useful online tutorials etc. all about deep learning ( a work in progre
 ### Natural language processing
 * CS224n https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
 
+### Computer vision 
+* CS231n https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
+
 ### Batch Norm 
 * Experiments on placement of batchnorm in Resnets http://torch.ch/blog/2016/02/04/resnets.html
 
@@ -74,5 +77,6 @@ Links to useful online tutorials etc. all about deep learning ( a work in progre
 * Quantization http://proceedings.mlr.press/v48/linb16.pdf
 * Quantization https://www.microsoft.com/en-us/research/wp-content/uploads/2017/04/FxpNet-submitted.pdf
 * Quantization https://arxiv.org/pdf/1703.03073.pdf
+
 ### Datasets
 * NLP https://github.com/niderhoff/nlp-datasets
