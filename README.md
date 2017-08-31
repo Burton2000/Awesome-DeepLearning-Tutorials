@@ -49,7 +49,7 @@ Links to useful online tutorials etc. all about deep learning ( a work in progre
 ### GANS
 * Overview of differences in losses for different GANS https://github.com/hwalsuklee/tensorflow-generative-model-collections
 * 17 hacks for training GANS https://github.com/soumith/ganhacks
-
+* Picture of why GANs are cool https://ai2-s2-public.s3.amazonaws.com/figures/2016-11-08/546b3592f59b3445ef12fba506b729c832198c33/2-Figure3-1.png
 ### Research Papers
 * https://github.com/terryum/awesome-deep-learning-papers/blob/master/README.md 
 * https://github.com/sbrugman/deep-learning-papers
@@ -77,6 +77,7 @@ Links to useful online tutorials etc. all about deep learning ( a work in progre
 * Quantization http://proceedings.mlr.press/v48/linb16.pdf
 * Quantization https://www.microsoft.com/en-us/research/wp-content/uploads/2017/04/FxpNet-submitted.pdf
 * Quantization https://arxiv.org/pdf/1703.03073.pdf
+* Super Resolution with GANs https://arxiv.org/pdf/1609.04802.pdf
 
 ### Datasets
 * NLP https://github.com/niderhoff/nlp-datasets
