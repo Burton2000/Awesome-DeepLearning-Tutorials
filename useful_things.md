@@ -80,6 +80,8 @@ Then add these to your QT .pro file:
 - `- INCLUDEPATH += /usr/include/hdf5/serial`
 - `- LIBS += -L/usr/lib/x86_64-linux-gnu/`
 
+## g++ basic compiler options
+http://web.engr.oregonstate.edu/~rubinma/Mines_274/Content/Slides/05_compilation.pdf
 
 ## Python
 
