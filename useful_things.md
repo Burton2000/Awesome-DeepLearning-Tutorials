@@ -53,19 +53,19 @@ You need an anaconda env of pytohn 3.6.1 and you will need cuda 8 installed.
 ref: https://github.com/pytorch/pytorch/issues/494
 
 ## Install Anaconda on ubuntu ##
--`mkdir conda` 
--`cd conda` (create and go to a new directory for us to download anaconda install scripts to)
--`wget https://repo.continuum.io/archive/Anaconda3-5.0.0.1-Linux-x86_64.sh` (get latest link from https://www.anaconda.com/download/#linux)
--`bash Anaconda3-5.0.0.1-Linux-x86_64.sh`
--This will give an ouput where you need to press `ENTER` to continue and then keep pressing `ENTER` to read through the license.
--Agree to the license by typing `yes`
--Install location will be shown now, if you are happy with it press `ENTER` to continue or change to something else
--Install will take a bit of time but once its finished it will ask if you want to update your bashrc with the anaconda path, you should type `yes` so you can use the `conda` command.
--`source ~/.bashrc` to refresh your updataed bashrc
+- `mkdir conda` 
+- `cd conda` (create and go to a new directory for us to download anaconda install scripts to)
+- `wget https://repo.continuum.io/archive/Anaconda3-5.0.0.1-Linux-x86_64.sh` (get latest link from https://www.anaconda.com/download/#linux)
+- `bash Anaconda3-5.0.0.1-Linux-x86_64.sh`
+- This will give an ouput where you need to press `ENTER` to continue and then keep pressing `ENTER` to read through the license.
+- Agree to the license by typing `yes`
+- Install location will be shown now, if you are happy with it press `ENTER` to continue or change to something else
+- Install will take a bit of time but once its finished it will ask if you want to update your bashrc with the anaconda path, you should type `yes` so you can use the `conda` command.
+- `source ~/.bashrc` to refresh your updataed bashrc
 - Check its all installed by typing `conda list` this should show all the packages available to you
 
 ## Create Anaconda environments on ubuntu ##
-- ` conda create --name my_env python=3` you can leave out the pyton argument if you dont want to specify exactly what python version
+- `conda create --name my_env python=3` you can leave out the pyton argument if you dont want to specify exactly what python version
 - `source activate my_evn` to activate your environment, your command prompt prefix should change to include the name of your environment
 
 ## Install Tensorflow Ubuntu ##
