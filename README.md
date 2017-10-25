@@ -37,6 +37,9 @@ Links to useful online tutorials etc. all about deep learning ( a work in progre
 ### Computer vision 
 * CS231n https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
 
+### Reinforcement learning
+* David Silver Deepmind lectures https://www.youtube.com/playlist?list=PLeJKOhW5z62XKURemUDc3N92Min9yaR12
+
 ### Batch Norm 
 * Experiments on placement of batchnorm in Resnets http://torch.ch/blog/2016/02/04/resnets.html
 
