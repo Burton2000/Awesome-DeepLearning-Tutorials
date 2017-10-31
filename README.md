@@ -15,6 +15,7 @@ Links to useful online tutorials etc. all about deep learning ( a work in progre
 * TFRecord example http://warmspringwinds.github.io/tensorflow/tf-slim/2016/12/21/tfrecords-guide/
 * Visualise TF graphs in ipynb https://blog.jakuba.net/2017/05/30/tensorflow-visualization.html
 * Profiling TF https://medium.com/towards-data-science/howto-profile-tensorflow-1a49fb18073d
+* Eager mode (dynamic graphs) https://medium.com/@yaroslavvb/tensorflow-meets-pytorch-with-eager-mode-714cce161e6c
 
 ### PyTorch
 * Variety of pretrained models and training scripts https://github.com/aaron-xichen/pytorch-playground
