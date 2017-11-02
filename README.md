@@ -81,8 +81,10 @@ Links to useful online tutorials etc. all about deep learning ( a work in progre
 * Quantization http://proceedings.mlr.press/v48/linb16.pdf
 * Quantization https://www.microsoft.com/en-us/research/wp-content/uploads/2017/04/FxpNet-submitted.pdf
 * Quantization https://arxiv.org/pdf/1703.03073.pdf
+* Quantizatoin https://arxiv.org/pdf/1605.06402.pdf (ristretto)
 * Super Resolution with GANs https://arxiv.org/pdf/1609.04802.pdf
 * Instance segmentation https://arxiv.org/abs/1703.06870 (Mask R-CNN)
+
 
 ### Datasets
 * NLP https://github.com/niderhoff/nlp-datasets
