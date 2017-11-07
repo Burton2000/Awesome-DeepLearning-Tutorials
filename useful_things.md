@@ -47,8 +47,6 @@ You need an anaconda env of pytohn 3.6.1 and you will need cuda 8 installed.
 - Open an anaconda prompt of your new environment and enter the following to installl pytorch depending on your os
 - Windows 10, Cuda 8
 `conda install -c peterjc123 pytorch`
-If the above doesn't work try this one.
-`conda install -c peterjc123 pytorch=0.1.12`
 - Windows 7/8, Cuda 8 
 `conda install -c peterjc123 pytorch_legacy=0.1.12`
 
