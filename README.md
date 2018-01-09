@@ -1,5 +1,5 @@
 # Awesome deep learning and machine learning tutorials
-Links to useful online tutorials etc. all about deep learning ( a work in progress )
+Links to useful online tutorials etc. all about deep learning ( a work in progress ). If you have any nice tutorials you think I should add please submit as an issue and I will look at putting them in the list.
 
 ### Introduction to Machine Learning
 * Andrew Ng https://www.coursera.org/learn/machine-learning
