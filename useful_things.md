@@ -1,6 +1,25 @@
 ## Installing NCCL and caffe ##
 - http://www.nvidia.com/object/caffe-installation.html
 
+## Install nvidia toolkit on Linux (Ubuntu 16.04) (installs an old driver at the same time)
+- Download the CUDA Toolkit 8.0 https://developer.nvidia.com/cuda-80-ga2-download-archive
+- sudo shutdown -r 0
+- press ctrl+alt+f4 to bring up terminal then login
+- sudo service lightdm stop
+- Follow all instructions found on this link: https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html#post-installation-actions
+- Add the following to your .bashrc:
+export PATH=/usr/local/cuda-8.0/bin${PATH:+:${PATH}}$ 
+export LD_LIBRARY_PATH=/usr/local/cuda-8.0/lib64${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}
+
+## Instal nvidia drivers on Linux (Ubuntu 16.04)
+- Download the latest driver from here http://www.nvidia.co.uk/Download/index.aspx?lang=uk selecting Linux 64 bit
+- sudo shutdown -r 0
+- press ctrl+alt+f4 to bring up terminal then login
+- sudo service lightdm stop
+- sudo sh NVIDIA-Linux-x86_64-384.81_linux.run
+- accept and say yes to everything
+- sudo shutdown -r 0
+
 ## Adjust fan speed Nvidia gpu on Linux ##
 In a terminal enter:
 
