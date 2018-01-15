@@ -13,7 +13,7 @@
 
 `export LD_LIBRARY_PATH=/usr/local/cuda-8.0/lib64${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}`
 
-## Instal nvidia drivers on Linux (Ubuntu 16.04)
+## Install latest nvidia drivers on Linux (Ubuntu 16.04)
 - Download the latest driver from here http://www.nvidia.co.uk/Download/index.aspx?lang=uk selecting Linux 64 bit
 - sudo shutdown -r 0
 - press ctrl+alt+f4 to bring up terminal then login
