@@ -9,6 +9,7 @@
 - Follow all instructions found on this link: https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html#post-installation-actions
 - Add the following to your .bashrc:
 `export PATH=/usr/local/cuda-8.0/bin${PATH:+:${PATH}}$` 
+
 `export LD_LIBRARY_PATH=/usr/local/cuda-8.0/lib64${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}`
 
 ## Instal nvidia drivers on Linux (Ubuntu 16.04)
