@@ -145,6 +145,14 @@ You can also install visual studio 2015 and should fix the problem.
 - `du -h --max_length=1` will give size of all things in current folder
 - `df -h ` will give overall free/used space on each disk
 
+## Ubuntu mounting network drives issue
+
+If you mount a network filesystem and the folders when mounted are empty or you get an error like: "wrong fs type, bad option, bad superblock" then you may just need to install cifs-utils. If mount.cifs is not in your /sbin then do 
+
+`sudo apt-get install cifs-utils`
+
+https://askubuntu.com/questions/525243/why-do-i-get-wrong-fs-type-bad-option-bad-superblock-error
+
 ## Tensorflow windows cupti dll missing for tracing
 - When you use CUDA 8.0, the file cupti64_80.dll lies in C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\extras\CUPTI\libx64. I just fixed the problem by copying the dll into C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin, and the file cupti.lib in the same location into C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\lib\x64. And it works!
 
