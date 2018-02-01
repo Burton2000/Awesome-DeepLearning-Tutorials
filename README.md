@@ -18,6 +18,7 @@ Links to useful online tutorials etc. all about deep learning ( a work in progre
 * Various tutorials/ipynb https://github.com/aymericdamien/TensorFlow-Examples
 * Various resources https://github.com/astorfi/Awsome-TensorFlow-Resources
 * Various resources https://github.com/jtoy/awesome-tensorflow
+* Various resources https://github.com/astorfi/TensorFlow-World-Resources
 * TFRecord example http://warmspringwinds.github.io/tensorflow/tf-slim/2016/12/21/tfrecords-guide/
 * Visualise TF graphs in ipynb https://blog.jakuba.net/2017/05/30/tensorflow-visualization.html
 * Profiling TF https://medium.com/towards-data-science/howto-profile-tensorflow-1a49fb18073d
