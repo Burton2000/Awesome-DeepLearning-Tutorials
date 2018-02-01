@@ -128,6 +128,9 @@ http://web.engr.oregonstate.edu/~rubinma/Mines_274/Content/Slides/05_compilation
 Matplotlib remove whitespace in a figure (Domagoj):
 - https://stackoverflow.com/questions/9295026/matplotlib-plots-removing-axis-legends-and-white-spaces
 
+scipy.misc.imresize float/uint8 problem:
+- https://github.com/scipy/scipy/issues/4458
+
 ## error: Unable to find vcvarsall.bat ##
 
 Encounted this issue when trying to use Cython in Windows. This is caused by not have a c/c++ compiler installed. Quickest solution is to install this:
