@@ -5,6 +5,10 @@ Links to useful online tutorials etc. all about deep learning ( a work in progre
 * Andrew Ng https://www.coursera.org/learn/machine-learning
 * Elements of Statistical Learning (Ch.1-4/7) http://statweb.stanford.edu/%7Etibs/ElemStatLearn/printings/ESLII_print10.pdf
 * Machine/Deep Learning cheatsheets https://github.com/kailashahirwar/cheatsheets-ai
+* Geoffrey Hinton Neural Networks for Machine Learning https://www.coursera.org/learn/neural-networks
+
+### Deep Learning
+* Andrew Ng (2017) https://www.coursera.org/specializations/deep-learning
 
 ### Convolutional Neural Networks
 * CNN basics explained well (explaining kernels) https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/
