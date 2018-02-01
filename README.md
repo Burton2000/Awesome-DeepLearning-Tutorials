@@ -27,6 +27,7 @@ Links to useful online tutorials etc. all about deep learning ( a work in progre
 
 ### Linear Algebra
 * https://medium.com/towards-data-science/linear-algebra-cheat-sheet-for-deep-learning-cd67aba4526c#.nfoveoe56
+* http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html
 
 ### Optimisation
 * Momentum - http://distill.pub/2017/momentum/
