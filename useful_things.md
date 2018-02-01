@@ -115,7 +115,7 @@ First:
 - `sudo apt-get install libhdf5-*`  (installs libhdf5 libs)
 - `sudo apt-get install hdf5-*` (install all other hdf5 stuff)
 
-Then add these to your QT .pro file: 
+Then if you are using QT you can add these to your QT .pro file: 
 
 - `- INCLUDEPATH += /usr/include/hdf5/serial`
 - `- LIBS += -L/usr/lib/x86_64-linux-gnu/`
