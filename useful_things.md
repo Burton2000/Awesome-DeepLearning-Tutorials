@@ -123,6 +123,9 @@ Then if you are using QT you can add these to your QT .pro file:
 ## g++ basic compiler options
 http://web.engr.oregonstate.edu/~rubinma/Mines_274/Content/Slides/05_compilation.pdf
 
+## Codec for video compression in virtualdub
+- https://www.videohelp.com/software/ffdshow
+
 ## Python
 
 Matplotlib remove whitespace in a figure (Domagoj):
