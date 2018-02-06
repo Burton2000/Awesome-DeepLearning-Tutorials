@@ -97,3 +97,4 @@ Links to useful online tutorials etc. all about deep learning ( a work in progre
 
 ### Datasets
 * NLP https://github.com/niderhoff/nlp-datasets
+* MNIST png format https://github.com/myleott/mnist_png
