@@ -38,6 +38,9 @@ In caffe pooling and conv. operations are treated differently for output spatial
 - For conv. output size is ` top_size = floor((bottom_size + 2*pad - kernel_size) / stride) + 1`
 - https://github.com/BVLC/caffe/issues/1318
 
+## Caffe python layers with preloading
+- https://stackoverflow.com/questions/48057841/how-to-write-a-caffe-python-data-layer-with-preload/48065550#48065550
+
 ## Anaconda environments and running spyder ## 
 - https://conda.io/docs/using/envs.html#change-environments-activate-deactivate
 - http://stackoverflow.com/questions/30170468/how-to-run-spyder-in-virtual-environment
