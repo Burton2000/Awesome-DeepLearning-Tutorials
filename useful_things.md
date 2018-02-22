@@ -165,6 +165,7 @@ https://askubuntu.com/questions/525243/why-do-i-get-wrong-fs-type-bad-option-bad
 ## Tensorflow windows/ubuntu cupti dll/so missing for tracing
 Windows
 - When using CUDA 8.0, the file cupti64_80.dll lies in `C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\extras\CUPTI\libx64`. I fixed the problem by copying the dll into `C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin`, and the file `cupti.lib` in the same location into `C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\lib\x64`. And it works!
+
 Ubuntu
 - Same issue for ubuntu, the file is located in `\usr\local\cuda-8.0\extras\CUPTO\lib64\libcupti.so.8.0` move it to `\usr\local\cuda-8.0\lib64\` 
 
