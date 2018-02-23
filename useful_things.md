@@ -149,6 +149,9 @@ You can also install visual studio 2015 and should fix the problem.
 
 - `for f in *.png; do mv "$f" "${f#image}"; done` (in this example rename all *.png removing 'image' from their name)
 
+## Ubuntu split text file up 
+- `https://stackoverflow.com/questions/2016894/how-to-split-a-large-text-file-into-smaller-files-with-equal-number-of-lines`
+
 ## Ubuntu find out disk space
 
 - `du -h --max_length=1` will give size of all things in current folder
