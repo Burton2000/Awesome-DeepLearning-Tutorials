@@ -137,6 +137,9 @@ Matplotlib remove whitespace in a figure (Domagoj):
 scipy.misc.imresize float/uint8 problem:
 - https://github.com/scipy/scipy/issues/4458
 
+Differences between map, apply, map_async, apply_async or multiprocessing
+- http://blog.shenwei.me/python-multiprocessing-pool-difference-between-map-apply-map_async-apply_async/
+
 ## error: Unable to find vcvarsall.bat ##
 
 Encounted this issue when trying to use Cython in Windows. This is caused by not have a c/c++ compiler installed. Quickest solution is to install this:
