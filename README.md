@@ -1,5 +1,9 @@
 # Awesome deep learning and machine learning tutorials
-Links to useful online tutorials etc. all about deep learning ( a work in progress ). If you have any nice tutorials you think I should add please submit as an issue and I will look at putting them in the list.
+Links to useful online tutorials etc. all about deep learning ( a work in progress ). 
+
+# Contributing
+If you have any nice tutorials you think I should add please submit as an issue and I will look at putting them in the list.
+
 
 ## Contents
 - [Introducition to Machine Learning](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#introduction-to-machine-learning)
@@ -14,6 +18,7 @@ Links to useful online tutorials etc. all about deep learning ( a work in progre
 - [RNN Chatbots](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#rnn-chatbot)
 - [Research papers](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#research-papers)
 - [Datasets](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#datasets)
+
 ### Introduction to Machine Learning
 * Andrew Ng https://www.coursera.org/learn/machine-learning
 * Elements of Statistical Learning (Ch.1-4/7) http://statweb.stanford.edu/%7Etibs/ElemStatLearn/printings/ESLII_print10.pdf
@@ -52,8 +57,13 @@ Links to useful online tutorials etc. all about deep learning ( a work in progre
 ### Optimisation
 * Momentum - http://distill.pub/2017/momentum/
 
-### Variational Autoencoders
+### Generative Models
+## Variational Autoencoders
 * http://kvfrans.com/variational-autoencoders-explained/
+## Generative Adversarial Networks (GANS)
+* Overview of differences in losses for different GANS https://github.com/hwalsuklee/tensorflow-generative-model-collections
+* 17 hacks for training GANS https://github.com/soumith/ganhacks
+* Picture of why GANs are cool https://ai2-s2-public.s3.amazonaws.com/figures/2016-11-08/546b3592f59b3445ef12fba506b729c832198c33/2-Figure3-1.png
 
 ### Natural language processing
 * CS224n https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
@@ -73,10 +83,6 @@ Links to useful online tutorials etc. all about deep learning ( a work in progre
 ### RNN chatbot
 * https://adeshpande3.github.io/How-I-Used-Deep-Learning-to-Train-a-Chatbot-to-Talk-Like-Me
 
-### GANS
-* Overview of differences in losses for different GANS https://github.com/hwalsuklee/tensorflow-generative-model-collections
-* 17 hacks for training GANS https://github.com/soumith/ganhacks
-* Picture of why GANs are cool https://ai2-s2-public.s3.amazonaws.com/figures/2016-11-08/546b3592f59b3445ef12fba506b729c832198c33/2-Figure3-1.png
 ### Research Papers
 * https://github.com/terryum/awesome-deep-learning-papers/blob/master/README.md 
 * https://github.com/sbrugman/deep-learning-papers
