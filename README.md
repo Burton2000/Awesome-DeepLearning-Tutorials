@@ -14,8 +14,7 @@ If you have any nice tutorials or links you think I should add please submit as 
 - [Linear Algebra](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#linear-algebra)
 - [Optimisation](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#optimisation)
 - [Generative Models](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#generative-models)
-- [Self Driving Cars](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#self-driving-cars)
-- [RNN Chatbots](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#rnn-chatbot)
+- [Projects](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#projects)
 - [Research papers](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#research-papers)
 - [Datasets](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#datasets)
 
@@ -30,7 +29,7 @@ If you have any nice tutorials or links you think I should add please submit as 
 
 ## Convolutional Neural Networks
 * CNN basics explained well (explaining kernels) https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/
-* Explaining different convoltion types https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d
+* Explaining different convolution types https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d
 ### Batch Norm 
 * Experiments on placement of batchnorm in Resnets http://torch.ch/blog/2016/02/04/resnets.html
 
