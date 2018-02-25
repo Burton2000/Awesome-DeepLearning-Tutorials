@@ -3,8 +3,17 @@ Links to useful online tutorials etc. all about deep learning ( a work in progre
 
 ## Contents
 - [Introducition to Machine Learning](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#introduction-to-machine-learning)
-
-
+- [Deep Learning](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#deep-learning)
+- [Convolutional Neural Networks](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#convolutional-neural-networks)
+- [Tensorflow](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#tensorflow)
+- [Pytorch](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#pytorch)
+- [Linear Algebra](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#linear-algebra)
+- [Optimisation](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#optimisation)
+- [Generative Models]
+- [Self Driving Cars](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#self-driving-cars)
+- [RNN Chatbots](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#rnn-chatbot)
+- [Research papers](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#research-papers)
+- [Datasets](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#datasets)
 ### Introduction to Machine Learning
 * Andrew Ng https://www.coursera.org/learn/machine-learning
 * Elements of Statistical Learning (Ch.1-4/7) http://statweb.stanford.edu/%7Etibs/ElemStatLearn/printings/ESLII_print10.pdf
@@ -16,6 +25,7 @@ Links to useful online tutorials etc. all about deep learning ( a work in progre
 
 ### Convolutional Neural Networks
 * CNN basics explained well (explaining kernels) https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/
+* Explaining different convoltion types https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d
 
 ### Tensorflow
 * Freezing/saving and serving a model https://blog.metaflow.fr/tensorflow-how-to-freeze-a-model-and-serve-it-with-a-python-api-d4f3596b3adc
