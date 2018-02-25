@@ -4,8 +4,7 @@ Links to useful online tutorials etc. all about deep learning ( a work in progre
 # Contributing
 If you have any nice tutorials you think I should add please submit as an issue and I will look at putting them in the list.
 
-
-## Contents
+# Contents
 - [Introducition to Machine Learning](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#introduction-to-machine-learning)
 - [Deep Learning](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#deep-learning)
 - [Convolutional Neural Networks](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#convolutional-neural-networks)
@@ -19,20 +18,20 @@ If you have any nice tutorials you think I should add please submit as an issue 
 - [Research papers](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#research-papers)
 - [Datasets](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#datasets)
 
-### Introduction to Machine Learning
+## Introduction to Machine Learning
 * Andrew Ng https://www.coursera.org/learn/machine-learning
 * Elements of Statistical Learning (Ch.1-4/7) http://statweb.stanford.edu/%7Etibs/ElemStatLearn/printings/ESLII_print10.pdf
 * Machine/Deep Learning cheatsheets https://github.com/kailashahirwar/cheatsheets-ai
 * Geoffrey Hinton Neural Networks for Machine Learning https://www.coursera.org/learn/neural-networks
 
-### Deep Learning
+## Deep Learning
 * Andrew Ng (2017) https://www.coursera.org/specializations/deep-learning
 
-### Convolutional Neural Networks
+## Convolutional Neural Networks
 * CNN basics explained well (explaining kernels) https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/
 * Explaining different convoltion types https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d
 
-### Tensorflow
+## Tensorflow
 * Freezing/saving and serving a model https://blog.metaflow.fr/tensorflow-how-to-freeze-a-model-and-serve-it-with-a-python-api-d4f3596b3adc
 * Various tutorials/ipynb https://github.com/aymericdamien/TensorFlow-Examples
 * Various resources https://github.com/astorfi/Awsome-TensorFlow-Resources
@@ -44,46 +43,46 @@ If you have any nice tutorials you think I should add please submit as an issue 
 * Profiling/tracing TF https://medium.com/towards-data-science/howto-profile-tensorflow-1a49fb18073d
 * Eager mode (dynamic graphs) https://medium.com/@yaroslavvb/tensorflow-meets-pytorch-with-eager-mode-714cce161e6c
 
-### PyTorch
+## PyTorch
 * Variety of pretrained models and training scripts https://github.com/aaron-xichen/pytorch-playground
 * Intro to PyTorch for Kaggle competitions https://github.com/bfortuner/pytorch-kaggle-starter
 * Cheat sheet https://github.com/Tgaaly/pytorch-cheatsheet/blob/master/README.md
 * Cheat sheet with examples https://github.com/bfortuner/pytorch-cheatsheet/blob/master/pytorch-cheatsheet.ipynb
 
-### Linear Algebra
+## Linear Algebra
 * https://medium.com/towards-data-science/linear-algebra-cheat-sheet-for-deep-learning-cd67aba4526c#.nfoveoe56
 * http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html
 
-### Optimisation
+## Optimisation
 * Momentum - http://distill.pub/2017/momentum/
 
-### Generative Models
-## Variational Autoencoders
+## Generative Models
+### Variational Autoencoders
 * http://kvfrans.com/variational-autoencoders-explained/
-## Generative Adversarial Networks (GANS)
+### Generative Adversarial Networks (GANS)
 * Overview of differences in losses for different GANS https://github.com/hwalsuklee/tensorflow-generative-model-collections
 * 17 hacks for training GANS https://github.com/soumith/ganhacks
 * Picture of why GANs are cool https://ai2-s2-public.s3.amazonaws.com/figures/2016-11-08/546b3592f59b3445ef12fba506b729c832198c33/2-Figure3-1.png
 
-### Natural language processing
+## Natural language processing
 * CS224n https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
 
-### Computer vision 
+## Computer vision 
 * CS231n https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
 
-### Reinforcement learning
+## Reinforcement learning
 * David Silver Deepmind lectures https://www.youtube.com/playlist?list=PLeJKOhW5z62XKURemUDc3N92Min9yaR12
 * Intro to RL algorithms https://medium.com/@huangkh19951228/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287
-### Batch Norm 
+## Batch Norm 
 * Experiments on placement of batchnorm in Resnets http://torch.ch/blog/2016/02/04/resnets.html
 
-### Self driving cars
+## Self driving cars
 * https://github.com/CYHSM/carnd
 
-### RNN chatbot
+## RNN chatbot
 * https://adeshpande3.github.io/How-I-Used-Deep-Learning-to-Train-a-Chatbot-to-Talk-Like-Me
 
-### Research Papers
+## Research Papers
 * https://github.com/terryum/awesome-deep-learning-papers/blob/master/README.md 
 * https://github.com/sbrugman/deep-learning-papers
 * Pose estimation https://arxiv.org/abs/1312.4659 
@@ -115,6 +114,6 @@ If you have any nice tutorials you think I should add please submit as an issue 
 * Instance segmentation https://arxiv.org/abs/1703.06870 (Mask R-CNN)
 
 
-### Datasets
+## Datasets
 * NLP https://github.com/niderhoff/nlp-datasets
 * MNIST png format https://github.com/myleott/mnist_png
