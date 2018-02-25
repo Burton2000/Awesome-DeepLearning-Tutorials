@@ -1,10 +1,11 @@
 # Awesome deep learning and machine learning tutorials
-Links to useful online tutorials etc. all about deep learning ( a work in progress ). 
+Links to useful online tutorials, blogposts, images etc. all about deep learning.
+This is a work in progress and I will continue to add to to this list as and when I find useful things.
 
-# Contributing
-If you have any nice tutorials you think I should add please submit as an issue and I will look at putting them in the list.
+## Contributing
+If you have any nice tutorials or links you think I should add please submit as an issue and I will look at putting them in the list. Also if any of the links are broken please let me know so I can remove them or find alternatives.
 
-# Contents
+## Contents
 - [Introducition to Machine Learning](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#introduction-to-machine-learning)
 - [Deep Learning](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#deep-learning)
 - [Convolutional Neural Networks](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#convolutional-neural-networks)
@@ -12,7 +13,7 @@ If you have any nice tutorials you think I should add please submit as an issue 
 - [Pytorch](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#pytorch)
 - [Linear Algebra](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#linear-algebra)
 - [Optimisation](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#optimisation)
-- [Generative Models]
+- [Generative Models](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#generative-models)
 - [Self Driving Cars](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#self-driving-cars)
 - [RNN Chatbots](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#rnn-chatbot)
 - [Research papers](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#research-papers)
@@ -30,6 +31,8 @@ If you have any nice tutorials you think I should add please submit as an issue 
 ## Convolutional Neural Networks
 * CNN basics explained well (explaining kernels) https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/
 * Explaining different convoltion types https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d
+### Batch Norm 
+* Experiments on placement of batchnorm in Resnets http://torch.ch/blog/2016/02/04/resnets.html
 
 ## Tensorflow
 * Freezing/saving and serving a model https://blog.metaflow.fr/tensorflow-how-to-freeze-a-model-and-serve-it-with-a-python-api-d4f3596b3adc
@@ -73,18 +76,16 @@ If you have any nice tutorials you think I should add please submit as an issue 
 ## Reinforcement learning
 * David Silver Deepmind lectures https://www.youtube.com/playlist?list=PLeJKOhW5z62XKURemUDc3N92Min9yaR12
 * Intro to RL algorithms https://medium.com/@huangkh19951228/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287
-## Batch Norm 
-* Experiments on placement of batchnorm in Resnets http://torch.ch/blog/2016/02/04/resnets.html
 
-## Self driving cars
+## Projects
+### Self driving cars
 * https://github.com/CYHSM/carnd
-
-## RNN chatbot
+### RNN chatbot
 * https://adeshpande3.github.io/How-I-Used-Deep-Learning-to-Train-a-Chatbot-to-Talk-Like-Me
 
 ## Research Papers
-* https://github.com/terryum/awesome-deep-learning-papers/blob/master/README.md 
-* https://github.com/sbrugman/deep-learning-papers
+* Collection of links https://github.com/terryum/awesome-deep-learning-papers/blob/master/README.md 
+* Collection of links https://github.com/sbrugman/deep-learning-papers
 * Pose estimation https://arxiv.org/abs/1312.4659 
 * Object detection https://arxiv.org/abs/1311.2524
 * Object detection https://arxiv.org/abs/1312.2249
@@ -112,7 +113,6 @@ If you have any nice tutorials you think I should add please submit as an issue 
 * Quantizatoin https://arxiv.org/pdf/1605.06402.pdf (ristretto)
 * Super Resolution with GANs https://arxiv.org/pdf/1609.04802.pdf
 * Instance segmentation https://arxiv.org/abs/1703.06870 (Mask R-CNN)
-
 
 ## Datasets
 * NLP https://github.com/niderhoff/nlp-datasets
