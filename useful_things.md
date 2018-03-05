@@ -129,6 +129,9 @@ http://web.engr.oregonstate.edu/~rubinma/Mines_274/Content/Slides/05_compilation
 ## Codec for video compression in virtualdub
 - https://www.videohelp.com/software/ffdshow
 
+## Number representation explained
+https://www.ntu.edu.sg/home/ehchua/programming/java/DataRepresentation.html
+
 ## Python
 
 Matplotlib remove whitespace in a figure (Domagoj):
