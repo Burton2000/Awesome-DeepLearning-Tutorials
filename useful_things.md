@@ -173,6 +173,10 @@ https://askubuntu.com/questions/525243/why-do-i-get-wrong-fs-type-bad-option-bad
 
 You may need to do `sudo mount -a` to enter passwords for network drives.
 
+## Ubuntu redirect stderr 
+For example to redirect stderr from a python file:
+`python some_file.py 2> output.txt`
+
 ## Tensorflow windows/ubuntu cupti dll/so missing for tracing
 Windows
 - When using CUDA 8.0, the file cupti64_80.dll lies in `C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\extras\CUPTI\libx64`. I fixed the problem by copying the dll into `C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin`, and the file `cupti.lib` in the same location into `C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\lib\x64`. And it works!
