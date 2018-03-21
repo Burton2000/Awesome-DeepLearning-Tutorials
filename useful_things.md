@@ -53,7 +53,7 @@ The best way to install Tensorflow on Windows is to use a conda environment, thi
 - `conda create --name nameofenv python=3.5.2 anaconda` (this creates a python 3.5.2 env. called nameofenv <- you can change this name to something else)
 - Open an anaconda prompt for your newly created environment (will be in the start menu) and run the following:
 - `pip install --ignore-installed --upgrade tensorflow-gpu ` 
-or for CPU only 
+- or for CPU only 
 - `pip install --ignore-installed --upgrade tensorflow` 
 
 To use this created environment with Tensorflow within Pycharm we must change the Pycharm interpreter settings. This is done as follows:
