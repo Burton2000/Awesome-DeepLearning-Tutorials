@@ -46,14 +46,15 @@ In caffe pooling and conv. operations are treated differently for output spatial
 - http://stackoverflow.com/questions/30170468/how-to-run-spyder-in-virtual-environment
 
 ## Install tensorflow on Windows ##
-To run Tensorflow on Windows you need python 3.5.2, the best way to install Tensorflow is to create an anaconda environment running 3.5.2. To create this environment and install Tensorflow in it do the following:
+The best way to install Tensorflow on Windows is to use a conda environment, this will create a python environment seperate from your system python so installing Tensorflow does not change anything with your system python libraries this can be done as follows:
 
-- Install Anaconda
+- Install Anaconda Python 3.6 version (https://www.anaconda.com/download/)
 - Open an Anaconda prompt and run the following
 - `conda create --name nameofenv python=3.5.2 anaconda` (this creates a python 3.5.2 env. called nameofenv <- you can change this name to something else)
-- Open an naconda prompt for your newly created environment (will be in the start menu) and run the following
-- `pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/windows/gpu/tensorflow_gpu-1.2.1-cp35-cp35m-win_amd64.whl ` 
-(This link for the Tensorflow package might change so you can find the latest version of it here: https://www.tensorflow.org/install/install_windows)
+- Open an anaconda prompt for your newly created environment (will be in the start menu) and run the following:
+- `pip install --ignore-installed --upgrade tensorflow-gpu ` 
+or for CPU only 
+- `pip install --ignore-installed --upgrade tensorflow` 
 
 To use this created environment with Tensorflow within Pycharm we must change the Pycharm interpreter settings. This is done as follows:
 
