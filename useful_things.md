@@ -98,6 +98,12 @@ ref: https://github.com/pytorch/pytorch/issues/494
 ## Install Tensorflow Ubuntu ##
 https://www.tensorflow.org/install/install_linux#InstallingAnaconda
 
+## Change number of samples used when displaying in Tensorboard
+- From your python installation modify .../lib/python3.6/site-packages/tensorboard/backend/application.py
+- Change the DEFAULT_TENSOR_SIZE_GUIDANCE values to increase the number of samples used to produce tensorboard results
+
+https://stackoverflow.com/a/43743761/7431458
+
 ## Change home folder and remove token access in Jupyter Notebook ##
 `jupyter notebook --ip=* --generate-config` 
 
