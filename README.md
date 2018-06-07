@@ -32,6 +32,9 @@ If you have any nice tutorials or links you think I should add please submit as 
 * Explaining different convolution types https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d
 ### Batch Norm 
 * Experiments on placement of batchnorm in Resnets http://torch.ch/blog/2016/02/04/resnets.html
+### Attention
+* Soft attention for images https://jhui.github.io/2017/03/15/Soft-and-hard-attention/
+
 
 ## Tensorflow
 * Freezing/saving and serving a model https://blog.metaflow.fr/tensorflow-how-to-freeze-a-model-and-serve-it-with-a-python-api-d4f3596b3adc
