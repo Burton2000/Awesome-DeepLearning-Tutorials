@@ -27,6 +27,9 @@ If you have any nice tutorials or links you think I should add please submit as 
 ## Deep Learning
 * Andrew Ng (2017) https://www.coursera.org/specializations/deep-learning
 
+## Neural Networks
+* Visual proof of NN universal approximation http://neuralnetworksanddeeplearning.com/chap4.html
+
 ## Convolutional Neural Networks
 * CNN basics explained well (explaining kernels) https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/
 * Explaining different convolution types https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d
