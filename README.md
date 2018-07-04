@@ -74,6 +74,7 @@ If you have any nice tutorials or links you think I should add please submit as 
 ## Natural language processing
 * CS224n https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
 * Word2Vec http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
+* Alternatives to RNN for encoding https://hanxiao.github.io/2018/06/25/4-Encoding-Blocks-You-Need-to-Know-Besides-LSTM-RNN-in-Tensorflow/
 
 ## Computer vision 
 * CS231n https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
