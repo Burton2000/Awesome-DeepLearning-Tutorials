@@ -52,6 +52,7 @@ If you have any nice tutorials or links you think I should add please submit as 
 * Eager mode (dynamic graphs) https://medium.com/@yaroslavvb/tensorflow-meets-pytorch-with-eager-mode-714cce161e6c
 * Dataset api buffer_size meaning https://stackoverflow.com/questions/46444018/meaning-of-buffer-size-in-dataset-map-dataset-prefetch-and-dataset-shuffle
 * Import a .pb model to tensorboard https://medium.com/@daj/how-to-inspect-a-pre-trained-tensorflow-model-5fd2ee79ced0
+* Different Dataset API Iterators explained https://towardsdatascience.com/how-to-use-dataset-in-tensorflow-c758ef9e4428
 
 ## PyTorch
 * Variety of pretrained models and training scripts https://github.com/aaron-xichen/pytorch-playground
