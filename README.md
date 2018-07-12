@@ -38,6 +38,9 @@ If you have any nice tutorials or links you think I should add please submit as 
 ### Attention
 * Soft attention for images https://jhui.github.io/2017/03/15/Soft-and-hard-attention/
 
+## Recurrent Neural Networks
+* LSTM basics http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
 
 ## Tensorflow
 * Freezing/saving and serving a model https://blog.metaflow.fr/tensorflow-how-to-freeze-a-model-and-serve-it-with-a-python-api-d4f3596b3adc
