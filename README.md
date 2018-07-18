@@ -90,6 +90,9 @@ If you have any nice tutorials or links you think I should add please submit as 
 ## Action recognition
 * Summary of state of the art http://blog.qure.ai/notes/deep-learning-for-videos-action-recognition-review
 
+## Object detection
+* Yolov3 https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/
+
 ## Reinforcement learning
 * David Silver Deepmind lectures https://www.youtube.com/playlist?list=PLeJKOhW5z62XKURemUDc3N92Min9yaR12
 * Intro to RL algorithms https://medium.com/@huangkh19951228/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287
