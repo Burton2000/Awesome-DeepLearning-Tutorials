@@ -97,6 +97,9 @@ If you have any nice tutorials or links you think I should add please submit as 
 * David Silver Deepmind lectures https://www.youtube.com/playlist?list=PLeJKOhW5z62XKURemUDc3N92Min9yaR12
 * Intro to RL algorithms https://medium.com/@huangkh19951228/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287
 
+## Anomaly detection
+* Autoencoder for fraud detection https://medium.com/@curiousily/credit-card-fraud-detection-using-autoencoders-in-keras-tensorflow-for-hackers-part-vii-20e0c85301bd
+
 ## Projects
 ### Self driving cars
 * https://github.com/CYHSM/carnd
