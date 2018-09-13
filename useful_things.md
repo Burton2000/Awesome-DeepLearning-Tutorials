@@ -196,3 +196,6 @@ Windows
 Ubuntu
 - Same issue for ubuntu, the file is located in `\usr\local\cuda-8.0\extras\CUPTO\lib64\libcupti.so.8.0` move it to `\usr\local\cuda-8.0\lib64\` 
 
+## Start mongodb on system startup
+`sudo systemctl enable mongod.service`
+https://askubuntu.com/questions/61503/how-to-start-mongodb-server-on-system-start
