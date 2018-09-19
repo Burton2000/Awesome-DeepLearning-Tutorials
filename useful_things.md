@@ -201,8 +201,4 @@ Ubuntu
 https://askubuntu.com/questions/61503/how-to-start-mongodb-server-on-system-start
 
 ## TensorFlow disable warnings
-`import os`
-import tensorflow as tf
-
-os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'  # or any {'0', '1', '2'}`
 - https://stackoverflow.com/a/38645250/7431458
