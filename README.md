@@ -65,6 +65,7 @@ If you have any nice tutorials or links you think I should add please submit as 
 * Intro to PyTorch for Kaggle competitions https://github.com/bfortuner/pytorch-kaggle-starter
 * Cheat sheet https://github.com/Tgaaly/pytorch-cheatsheet/blob/master/README.md
 * Cheat sheet with examples https://github.com/bfortuner/pytorch-cheatsheet/blob/master/pytorch-cheatsheet.ipynb
+* Migrating to PyTorch 0.4 https://pytorch.org/blog/pytorch-0_4_0-migration-guide/
 
 ## Linear Algebra
 * https://medium.com/towards-data-science/linear-algebra-cheat-sheet-for-deep-learning-cd67aba4526c#.nfoveoe56
