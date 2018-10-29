@@ -57,6 +57,8 @@ If you have any nice tutorials or links you think I should add please submit as 
 * Import a .pb model to tensorboard https://medium.com/@daj/how-to-inspect-a-pre-trained-tensorflow-model-5fd2ee79ced0
 * Different Dataset API Iterators explained https://towardsdatascience.com/how-to-use-dataset-in-tensorflow-c758ef9e4428
 * Scoping and sharing variables https://jhui.github.io/2017/03/08/TensorFlow-variable-sharing/
+* Quantization aware training https://github.com/tensorflow/tensorflow/blob/master/tensorflow/contrib/quantize/README.md
+* TFLite conversion https://github.com/tensorflow/tensorflow/blob/865b2783aad179eaf06161d016a42fbd4c18bfb4/tensorflow/contrib/lite/g3doc/convert/cmdline_examples.md
 
 ## PyTorch
 * Variety of pretrained models and training scripts https://github.com/aaron-xichen/pytorch-playground
