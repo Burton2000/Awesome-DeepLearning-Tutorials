@@ -1,5 +1,5 @@
 # Awesome deep learning and machine learning tutorials
-Links to useful online tutorials, blogposts, images etc. all about deep learning.
+Links to useful online tutorials, blogposts, images etc. all about deep learning and machine learning.
 This is a work in progress and I will continue to add to to this list as and when I find useful things.
 
 ## Contributing
