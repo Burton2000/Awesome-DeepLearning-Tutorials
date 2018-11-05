@@ -8,12 +8,20 @@ If you have any nice tutorials or links you think I should add please submit as 
 ## Contents
 - [Introducition to Machine Learning](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#introduction-to-machine-learning)
 - [Deep Learning](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#deep-learning)
+- [Neural Networks] (https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#neural-networks)
 - [Convolutional Neural Networks](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#convolutional-neural-networks)
+- [Recurrent Neural Networks](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#recurrent-neural-networks)
 - [Tensorflow](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#tensorflow)
 - [Pytorch](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#pytorch)
 - [Linear Algebra](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#linear-algebra)
 - [Optimisation](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#optimisation)
 - [Generative Models](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#generative-models)
+- [Natural Language Processing](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#natural-language-processing)
+- [Computer Vision](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#computer-vision)
+- [Action recognition](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#action-recognition)
+- [Object Detection](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#object-detection)
+- [Reinforcement Learning](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#reinforcement-learning)
+- [Anomaly Detection](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#anomaly-detection)
 - [Projects](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#projects)
 - [Research papers](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#research-papers)
 - [Datasets](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#datasets)
@@ -66,6 +74,7 @@ If you have any nice tutorials or links you think I should add please submit as 
 * Cheat sheet https://github.com/Tgaaly/pytorch-cheatsheet/blob/master/README.md
 * Cheat sheet with examples https://github.com/bfortuner/pytorch-cheatsheet/blob/master/pytorch-cheatsheet.ipynb
 * Migrating to PyTorch 0.4 https://pytorch.org/blog/pytorch-0_4_0-migration-guide/
+* Dearling with variable length sequences https://medium.com/@sonicboom8/sentiment-analysis-with-variable-length-sequences-in-pytorch-6241635ae130
 
 ## Linear Algebra
 * https://medium.com/towards-data-science/linear-algebra-cheat-sheet-for-deep-learning-cd67aba4526c#.nfoveoe56
@@ -99,6 +108,7 @@ If you have any nice tutorials or links you think I should add please submit as 
 ## Reinforcement learning
 * David Silver Deepmind lectures https://www.youtube.com/playlist?list=PLeJKOhW5z62XKURemUDc3N92Min9yaR12
 * Intro to RL algorithms https://medium.com/@huangkh19951228/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287
+* Intro to RL https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-4339519de419
 
 ## Anomaly detection
 * Autoencoder for fraud detection https://medium.com/@curiousily/credit-card-fraud-detection-using-autoencoders-in-keras-tensorflow-for-hackers-part-vii-20e0c85301bd
