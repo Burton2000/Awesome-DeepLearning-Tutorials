@@ -8,7 +8,7 @@ If you have any nice tutorials or links you think I should add please submit as 
 ## Contents
 - [Introducition to Machine Learning](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#introduction-to-machine-learning)
 - [Deep Learning](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#deep-learning)
-- [Neural Networks] (https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#neural-networks)
+- [Neural Networks](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#neural-networks)
 - [Convolutional Neural Networks](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#convolutional-neural-networks)
 - [Recurrent Neural Networks](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#recurrent-neural-networks)
 - [Tensorflow](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#tensorflow)
