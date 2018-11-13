@@ -104,6 +104,7 @@ If you have any nice tutorials or links you think I should add please submit as 
 
 ## Object detection
 * Yolov3 https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/
+* Yolov3 code http://leiluoray.com/2018/11/10/Implementing-YOLOV3-Using-PyTorch/?fbclid=IwAR2y0tNAxWq3kij4YFn99pW6jYB3CFmMd4gos2H1Al_bFMPgZ-QW_qekKb8
 
 ## Reinforcement learning
 * David Silver Deepmind lectures https://www.youtube.com/playlist?list=PLeJKOhW5z62XKURemUDc3N92Min9yaR12
