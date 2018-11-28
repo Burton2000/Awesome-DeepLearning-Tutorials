@@ -41,6 +41,7 @@ If you have any nice tutorials or links you think I should add please submit as 
 ## Convolutional Neural Networks
 * CNN basics explained well (explaining kernels) https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/
 * Explaining different convolution types https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d
+
 ### Batch Norm 
 * Experiments on placement of batchnorm in Resnets http://torch.ch/blog/2016/02/04/resnets.html
 ### Attention
@@ -94,11 +95,13 @@ If you have any nice tutorials or links you think I should add please submit as 
 
 ## Natural language processing
 * CS224n https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
+* CS224n cheat sheet https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks
 * Word2Vec http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
 * Alternatives to RNN for encoding https://hanxiao.github.io/2018/06/25/4-Encoding-Blocks-You-Need-to-Know-Besides-LSTM-RNN-in-Tensorflow/
 
 ## Computer vision 
 * CS231n https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
+* CS231n Cheat sheet https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks#filter
 
 ## Action recognition
 * Summary of state of the art http://blog.qure.ai/notes/deep-learning-for-videos-action-recognition-review
