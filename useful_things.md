@@ -202,3 +202,6 @@ https://askubuntu.com/questions/61503/how-to-start-mongodb-server-on-system-star
 
 ## TensorFlow disable warnings
 - https://stackoverflow.com/a/38645250/7431458
+
+## Numpy serialize comparison
+- http://satoru.rocks/2018/08/fastest-way-to-serialize-array/
