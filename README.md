@@ -119,6 +119,9 @@ If you have any nice tutorials or links you think I should add please submit as 
 ## Anomaly detection
 * Autoencoder for fraud detection https://medium.com/@curiousily/credit-card-fraud-detection-using-autoencoders-in-keras-tensorflow-for-hackers-part-vii-20e0c85301bd
 
+## Recommender systems
+* Intro to recommendation systems https://medium.com/datadriveninvestor/how-to-built-a-recommender-system-rs-616c988d64b2
+
 ## Projects
 ### Self driving cars
 * https://github.com/CYHSM/carnd
