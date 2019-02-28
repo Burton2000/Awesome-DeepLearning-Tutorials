@@ -99,6 +99,7 @@ If you have any nice tutorials or links you think I should add please submit as 
 * Word2Vec http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
 * Alternatives to RNN for encoding https://hanxiao.github.io/2018/06/25/4-Encoding-Blocks-You-Need-to-Know-Besides-LSTM-RNN-in-Tensorflow/
 * Some PyTorch examples of basic NLP tasks https://github.com/lyeoni/nlp-tutorial
+* Attention is all you need explained http://mlexplained.com/2017/12/29/attention-is-all-you-need-explained/
 
 ## Computer vision 
 * CS231n https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
