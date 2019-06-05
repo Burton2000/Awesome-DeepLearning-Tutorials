@@ -108,6 +108,9 @@ If you have any nice tutorials or links you think I should add please submit as 
 ## Action recognition
 * Summary of state of the art http://blog.qure.ai/notes/deep-learning-for-videos-action-recognition-review
 
+## Super resolution
+* Intro to super resolution with cnn https://medium.com/@hirotoschwert/introduction-to-deep-super-resolution-c052d84ce8cf
+
 ## Object detection
 * Yolov3 https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/
 * Yolov3 code http://leiluoray.com/2018/11/10/Implementing-YOLOV3-Using-PyTorch/?fbclid=IwAR2y0tNAxWq3kij4YFn99pW6jYB3CFmMd4gos2H1Al_bFMPgZ-QW_qekKb8
