@@ -205,3 +205,12 @@ https://askubuntu.com/questions/61503/how-to-start-mongodb-server-on-system-star
 
 ## Numpy serialize comparison
 - http://satoru.rocks/2018/08/fastest-way-to-serialize-array/
+
+## Changing gcc/g++ version on ubuntu
+Example installing gcc8 g++8
+- sudo add-apt-repository ppa:ubuntu-toolchain-r/test
+- sudo apt-get update
+- sudo apt-get install gcc-8 g++-8
+- sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-8 60 \
+                         --slave /usr/bin/g++ g++ /usr/bin/g++-8 
+- sudo update-alternatives --config gcc
