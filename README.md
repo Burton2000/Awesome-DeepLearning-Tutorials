@@ -70,6 +70,10 @@ If you have any nice tutorials or links you think I should add please submit as 
 * TFLite conversion https://github.com/tensorflow/tensorflow/blob/865b2783aad179eaf06161d016a42fbd4c18bfb4/tensorflow/contrib/lite/g3doc/convert/cmdline_examples.md
 * tf.data https://dominikschmidt.xyz/tensorflow-data-pipeline/
 * Reinforcment learning in TensorFlow 2.0 http://inoryy.com/post/tensorflow2-deep-reinforcement-learning/
+
+## Tensorflow 2.0
+* Image classification basics https://lambdalabs.com/blog/tensorflow-2-0-tutorial-01-image-classification-basics/
+
 ## PyTorch
 * Variety of pretrained models and training scripts https://github.com/aaron-xichen/pytorch-playground
 * Intro to PyTorch for Kaggle competitions https://github.com/bfortuner/pytorch-kaggle-starter
