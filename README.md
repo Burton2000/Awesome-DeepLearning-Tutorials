@@ -109,6 +109,9 @@ If you have any nice tutorials or links you think I should add please submit as 
 * CS231n https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
 * CS231n Cheat sheet https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks#filter
 
+## Semantic segmentation
+* Overview of architectures https://medium.com/@arthur_ouaknine/review-of-deep-learning-algorithms-for-image-semantic-segmentation-509a600f7b57
+
 ## Action recognition
 * Summary of state of the art http://blog.qure.ai/notes/deep-learning-for-videos-action-recognition-review
 
