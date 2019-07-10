@@ -170,6 +170,7 @@ If you have any nice tutorials or links you think I should add please submit as 
 * Super Resolution with GANs https://arxiv.org/pdf/1609.04802.pdf
 * Instance segmentation https://arxiv.org/abs/1703.06870 (Mask R-CNN)
 * EfficientNets (how to scale up network architectures) https://arxiv.org/pdf/1905.11946.pdf
+* CNNs trained on ImageNet learn textures rather than shapes https://arxiv.org/pdf/1811.12231.pdf
 
 ## Datasets
 * NLP https://github.com/niderhoff/nlp-datasets
