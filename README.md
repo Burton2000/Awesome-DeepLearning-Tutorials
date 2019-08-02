@@ -41,6 +41,7 @@ If you have any nice tutorials or links you think I should add please submit as 
 ## Convolutional Neural Networks
 * CNN basics explained well (explaining kernels) https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/
 * Explaining different convolution types https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d
+* Receptive field calculation https://medium.com/mlreview/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807
 
 ### Batch Norm 
 * Experiments on placement of batchnorm in Resnets http://torch.ch/blog/2016/02/04/resnets.html
