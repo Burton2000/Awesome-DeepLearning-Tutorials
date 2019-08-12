@@ -75,6 +75,9 @@ If you have any nice tutorials or links you think I should add please submit as 
 ## Tensorflow 2.0
 * Image classification basics https://lambdalabs.com/blog/tensorflow-2-0-tutorial-01-image-classification-basics/
 
+## Keras 
+* Word embeddings in Keras https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/
+
 ## PyTorch
 * Variety of pretrained models and training scripts https://github.com/aaron-xichen/pytorch-playground
 * Intro to PyTorch for Kaggle competitions https://github.com/bfortuner/pytorch-kaggle-starter
