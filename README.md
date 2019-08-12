@@ -12,7 +12,7 @@ If you have any nice tutorials or links you think I should add please submit as 
 - [Convolutional Neural Networks](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#convolutional-neural-networks)
 - [Recurrent Neural Networks](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#recurrent-neural-networks)
 - [Tensorflow](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#tensorflow)
-- [Tensorflow 2/Keras api](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#tensorflow-20)
+- [Tensorflow 2/Keras api](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#tensorflow-20--keras-api)
 - [Pytorch](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#pytorch)
 - [Linear Algebra](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#linear-algebra)
 - [Optimisation](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#optimisation)
