@@ -214,3 +214,6 @@ Example installing gcc8 g++8
 - sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-8 60 \
                          --slave /usr/bin/g++ g++ /usr/bin/g++-8 
 - sudo update-alternatives --config gcc
+
+## Find webcam supported resolutions linux
+- https://askubuntu.com/questions/214977/how-can-i-find-out-the-supported-webcam-resolutions
