@@ -79,6 +79,7 @@ If you have any nice tutorials or links you think I should add please submit as 
 ## Tensorflow 2.0 / Keras API
 * Image classification basics https://lambdalabs.com/blog/tensorflow-2-0-tutorial-01-image-classification-basics/
 * Word embeddings in Keras https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/
+* Symbolic (functional) vs imperative (class) api https://medium.com/tensorflow/what-are-symbolic-and-imperative-apis-in-tensorflow-2-0-dfccecb01021
 
 ## PyTorch
 * Variety of pretrained models and training scripts https://github.com/aaron-xichen/pytorch-playground
