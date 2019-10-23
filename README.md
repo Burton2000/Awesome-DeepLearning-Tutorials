@@ -81,6 +81,8 @@ If you have any nice tutorials or links you think I should add please submit as 
 * Symbolic (functional) vs imperative (subclassing) api https://medium.com/tensorflow/what-are-symbolic-and-imperative-apis-in-tensorflow-2-0-dfccecb01021
 * Overview of TF 2.0 high level apis https://medium.com/tensorflow/standardizing-on-keras-guidance-on-high-level-apis-in-tensorflow-2-0-bad2b04c819a
 * Reinforcment learning in TensorFlow 2.0 http://inoryy.com/post/tensorflow2-deep-reinforcement-learning/
+* Quantization https://gist.github.com/NobuoTsukamoto/0470fa22f3808f305db1fd4fbe01e3e4
+
 
 ## PyTorch
 * Variety of pretrained models and training scripts https://github.com/aaron-xichen/pytorch-playground
