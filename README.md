@@ -54,7 +54,7 @@ If you have any nice tutorials or links you think I should add please submit as 
 
 ## Recurrent Neural Networks
 * LSTM basics http://colah.github.io/posts/2015-08-Understanding-LSTMs/
-
+* CTC loss https://towardsdatascience.com/intuitively-understanding-connectionist-temporal-classification-3797e43a86c
 
 ## Tensorflow
 * Freezing/saving and serving a model https://blog.metaflow.fr/tensorflow-how-to-freeze-a-model-and-serve-it-with-a-python-api-d4f3596b3adc
