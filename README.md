@@ -52,6 +52,7 @@ If you have any nice tutorials or links you think I should add please submit as 
 ### Attention
 * Soft attention for images https://jhui.github.io/2017/03/15/Soft-and-hard-attention/
 * seq2seq Encoder decoder attention explained https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
+* Transformers explained http://jalammar.github.io/illustrated-transformer/
 
 ## Recurrent Neural Networks
 * LSTM basics http://colah.github.io/posts/2015-08-Understanding-LSTMs/
