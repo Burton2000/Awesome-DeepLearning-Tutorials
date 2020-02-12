@@ -53,6 +53,8 @@ If you have any nice tutorials or links you think I should add please submit as 
 * Soft attention for images https://jhui.github.io/2017/03/15/Soft-and-hard-attention/
 * seq2seq Encoder decoder attention explained https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
 * Transformers explained http://jalammar.github.io/illustrated-transformer/
+* Transformers explained https://towardsdatascience.com/transformers-141e32e69591
+* Transformers explained http://mlexplained.com/2017/12/29/attention-is-all-you-need-explained/
 
 ## Recurrent Neural Networks
 * LSTM basics http://colah.github.io/posts/2015-08-Understanding-LSTMs/
@@ -115,7 +117,6 @@ If you have any nice tutorials or links you think I should add please submit as 
 * Word2Vec http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
 * Alternatives to RNN for encoding https://hanxiao.github.io/2018/06/25/4-Encoding-Blocks-You-Need-to-Know-Besides-LSTM-RNN-in-Tensorflow/
 * Some PyTorch examples of basic NLP tasks https://github.com/lyeoni/nlp-tutorial
-* Attention is all you need explained http://mlexplained.com/2017/12/29/attention-is-all-you-need-explained/
 
 ## Computer vision 
 * CS231n https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
