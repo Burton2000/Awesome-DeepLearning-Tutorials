@@ -48,16 +48,12 @@ In caffe pooling and conv. operations are treated differently for output spatial
 ## Install tensorflow on Windows ##
 The best way to install Tensorflow on Windows is to use a conda environment, this will create a python environment seperate from your system python so installing Tensorflow does not change anything with your system python libraries this can be done as follows:
 
-- Install Anaconda Python 3.6 version (https://www.anaconda.com/download/)
+- Install the latest Anaconda Python 3 version (https://www.anaconda.com/download/)
 - Open an Anaconda prompt and run the following
-- `conda create --name nameofenv python=3.5.2 anaconda` (this creates a python 3.5.2 env. called nameofenv <- you can change this name to something else)
+- `conda create --name nameofenv python=3.6 anaconda` (this creates a python 3.6 env. called nameofenv <- you can change this name to something else)
 - Open an anaconda prompt for your newly created environment (will be in the start menu) and run the following:
-- `pip install --ignore-installed --upgrade tensorflow-gpu ` 
-
-or for CPU only 
-
-- `pip install --ignore-installed --upgrade tensorflow` 
-
+- `pip install --ignore-installed --upgrade tensorflow`
+ 
 To use this created environment with Tensorflow within Pycharm we must change the Pycharm interpreter settings. This is done as follows:
 
 - Open your Pycharm project 
@@ -67,17 +63,6 @@ To use this created environment with Tensorflow within Pycharm we must change th
 - Find the python.exe for your created environment (this locaton can be found by opening an Anaconda prompt of your environment where it will tell you where to look)
 - Select the python.exe of your created environment 
 - Done!
-
-## Install pytorch on Windows ##
-You need an anaconda env of pytohn 3.6.1 and you will need cuda 8 installed.
-- `conda create --name nameofenv python=3.6.1 anaconda` (this creates a python 3.6.1 env. called nameofenv <- you can change this name to something else)
-- Open an anaconda prompt of your new environment and enter the following to installl pytorch depending on your os
-- Windows 10, Cuda 8
-`conda install -c peterjc123 pytorch`
-- Windows 7/8, Cuda 8 
-`conda install -c peterjc123 pytorch_legacy=0.1.12`
-
-ref: https://github.com/pytorch/pytorch/issues/494
 
 ## Install Anaconda on ubuntu ##
 - `mkdir conda` 
@@ -217,3 +202,6 @@ Example installing gcc8 g++8
 
 ## Find webcam supported resolutions linux
 - https://askubuntu.com/questions/214977/how-can-i-find-out-the-supported-webcam-resolutions
+
+## Remove windows '\r' end of lines from file
+- `sed -i 's/\r//g' script.sh`
