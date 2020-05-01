@@ -118,6 +118,9 @@ If you have any nice tutorials or links you think I should add please submit as 
 * Alternatives to RNN for encoding https://hanxiao.github.io/2018/06/25/4-Encoding-Blocks-You-Need-to-Know-Besides-LSTM-RNN-in-Tensorflow/
 * Some PyTorch examples of basic NLP tasks https://github.com/lyeoni/nlp-tutorial
 
+## Automatic speech recognition and KWS
+* Calculating MFCC http://practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/
+
 ## Computer vision 
 * CS231n https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
 * CS231n Cheat sheet https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks#filter
