@@ -205,3 +205,6 @@ Example installing gcc8 g++8
 
 ## Remove windows '\r' end of lines from file
 - `sed -i 's/\r//g' script.sh`
+
+## Simple discrete fourier transform implementaion
+- https://www.nayuki.io/page/how-to-implement-the-discrete-fourier-transform
