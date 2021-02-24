@@ -6,7 +6,7 @@ This is a work in progress and I will continue to add to to this list as and whe
 If you have any nice tutorials or links you think I should add please submit as an issue and I will look at putting them in the list. Also if any of the links are broken please let me know so I can remove them or find alternatives.
 
 ## Contents
-- [Introducition to Machine Learning](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#introduction-to-machine-learning)
+- [Introducition to Machine Learning](#introduction-to-machine-learning)
 - [Deep Learning](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#deep-learning)
 - [Neural Networks](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#neural-networks)
 - [Convolutional Neural Networks](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#convolutional-neural-networks)
