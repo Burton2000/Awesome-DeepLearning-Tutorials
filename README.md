@@ -10,6 +10,8 @@ If you have any nice tutorials or links you think I should add please submit as 
 - [Deep Learning](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#deep-learning)
 - [Neural Networks](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#neural-networks)
 - [Convolutional Neural Networks](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#convolutional-neural-networks)
+- [Normalization](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#normalization)
+- [Attention and Transformers](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#attention)
 - [Recurrent Neural Networks](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#recurrent-neural-networks)
 - [Tensorflow](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#tensorflow)
 - [Tensorflow 2/Keras api](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#tensorflow-20--keras-api)
