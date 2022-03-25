@@ -208,3 +208,6 @@ Example installing gcc8 g++8
 
 ## Simple discrete fourier transform implementaion
 - https://www.nayuki.io/page/how-to-implement-the-discrete-fourier-transform
+
+## Leetcode
+- https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
