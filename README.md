@@ -156,6 +156,7 @@ If you have any nice tutorials or links you think I should add please submit as 
 * Stable diffusion using hugging face https://towardsdatascience.com/stable-diffusion-using-hugging-face-501d8dbdd8
 * Stable diffusion using hugging face - variants https://towardsdatascience.com/stable-diffusion-using-hugging-face-variations-of-stable-diffusion-56fd2ab7a265
 * Why do we need unconditional embedding https://forums.fast.ai/t/why-do-we-need-the-unconditioned-embedding/101134/11
+* Stable diffusion code deep dive https://github.com/fastai/diffusion-nbs/blob/master/Stable%20Diffusion%20Deep%20Dive.ipynb
 
 ## Recommender systems
 * Intro to recommendation systems https://medium.com/datadriveninvestor/how-to-built-a-recommender-system-rs-616c988d64b2
