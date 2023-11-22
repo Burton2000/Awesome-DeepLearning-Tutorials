@@ -25,6 +25,7 @@ If you have any nice tutorials or links you think I should add please submit as 
 - [Object Detection](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#object-detection)
 - [Reinforcement Learning](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#reinforcement-learning)
 - [Anomaly Detection](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#anomaly-detection)
+- [Diffusion models](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#diffusion-models)
 - [Projects](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#projects)
 - [Research papers](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#research-papers)
 - [Datasets](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#datasets)
@@ -148,6 +149,13 @@ If you have any nice tutorials or links you think I should add please submit as 
 
 ## Anomaly detection
 * Autoencoder for fraud detection https://medium.com/@curiousily/credit-card-fraud-detection-using-autoencoders-in-keras-tensorflow-for-hackers-part-vii-20e0c85301bd
+
+## Diffusion models
+* Cheat code for diffusion models https://sander.ai/2022/05/26/guidance.html
+* Illustrated stable diffusion http://jalammar.github.io/illustrated-stable-diffusion/
+* Stable diffusion using hugging face https://towardsdatascience.com/stable-diffusion-using-hugging-face-501d8dbdd8
+* Stable diffusion using hugging face - variants https://towardsdatascience.com/stable-diffusion-using-hugging-face-variations-of-stable-diffusion-56fd2ab7a265
+* Why do we need unconditional embedding https://forums.fast.ai/t/why-do-we-need-the-unconditioned-embedding/101134/11
 
 ## Recommender systems
 * Intro to recommendation systems https://medium.com/datadriveninvestor/how-to-built-a-recommender-system-rs-616c988d64b2
