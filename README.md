@@ -9,6 +9,7 @@ If you have any nice tutorials or links you think I should add please submit as 
 - [Introducition to Machine Learning](#introduction-to-machine-learning)
 - [Deep Learning](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#deep-learning)
 - [Neural Networks](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#neural-networks)
+- [Large Language Models](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#large-language-models)
 - [Convolutional Neural Networks](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#convolutional-neural-networks)
 - [Normalization](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#normalization)
 - [Attention and Transformers](https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#attention)
@@ -41,6 +42,9 @@ If you have any nice tutorials or links you think I should add please submit as 
 
 ## Neural Networks
 * Visual proof of NN universal approximation http://neuralnetworksanddeeplearning.com/chap4.html
+
+## Large Language Models
+* Rotary Positional Embeddings (RoPE) https://medium.com/ai-insights-cobet/rotary-positional-embeddings-a-detailed-look-and-comprehensive-understanding-4ff66a874d83
 
 ## Convolutional Neural Networks
 * CNN basics explained well (explaining kernels) https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/
