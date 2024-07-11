@@ -45,6 +45,7 @@ If you have any nice tutorials or links you think I should add please submit as 
 
 ## Large Language Models
 * Rotary Positional Embeddings (RoPE) https://medium.com/ai-insights-cobet/rotary-positional-embeddings-a-detailed-look-and-comprehensive-understanding-4ff66a874d83
+* Rotary Positional Embeddings (RoPE) https://blog.eleuther.ai/rotary-embeddings/
 
 ## Convolutional Neural Networks
 * CNN basics explained well (explaining kernels) https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/
