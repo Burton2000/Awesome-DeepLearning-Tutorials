@@ -1,3 +1,13 @@
+## Add artifactory lfs to a mirror repo (assume you are alread mirroring)
+- GIT_LFS_SKIP_SMUDGE=1 git checkout upstream/main
+- git remote add github git@github.com:ORG/REPO.git
+- git fetch github --prune
+- git remote add artifactory .
+- git config remote.artifactory.lfsurl     "https://<your-artifactory>/artifactory/api/lfs/<lfs-repo>"
+- git config remote.artifactory.lfspushurl "https://<your-artifactory>/artifactory/api/lfs/<lfs-repo>"
+- git lfs fetch --all github
+- git lfs push --all artifactory
+
 ## Installing NCCL and caffe ##
 - http://www.nvidia.com/object/caffe-installation.html
 
